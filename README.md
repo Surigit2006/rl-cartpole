@@ -4,7 +4,7 @@
 To develop and fine tune the Monte Carlo algorithm to stabilize the Cart Pole.
 
 ## PROBLEM STATEMENT
-Explain the problem statement.
+The project focuses on developing an efficient Monte Carlo control algorithm specifically tailored for stabilizing the Cart Pole system. With the objective of achieving robust stability, the aim is to fine-tune the algorithm to effectively balance the Cart Pole. Through rigorous development and testing, the goal is to optimize the algorithm's performance and reliability in stabilizing the Cart Pole under various conditions.
 
 ## MONTE CARLO CONTROL ALGORITHM FOR CART POLE BALANCING
 
@@ -109,7 +109,7 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 ![Screenshot 2025-05-14 110841](https://github.com/user-attachments/assets/061cb749-0dcb-489d-8aa0-4f373d4d51d6)
 ![Screenshot 2025-05-14 110849](https://github.com/user-attachments/assets/986c4fbc-06e1-441c-b3e6-e6612d21ed01)
 
-![Screenshot 2025-05-14 111011](https://github.com/user-attachments/assets/727d3e63-a09c-434d-80c7-4bf940610e16)
+
 
 
 
